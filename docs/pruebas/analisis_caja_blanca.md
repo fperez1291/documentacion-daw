@@ -1,3 +1,10 @@
+---
+id: analisis-caja-blanca
+title: Análisis de Caja Blanca
+sidebar_label: Análisis de Caja Blanca
+sidebar_position: 5
+---
+
 # Análisis de Caja Blanca: Módulo de Cálculo de Emisiones
 
 Este documento detalla la prueba de caja blanca realizada sobre la función crítica de negocio `calcularCarbono`, responsable de determinar las emisiones de $CO_2$ producidas según el tipo de consumo.

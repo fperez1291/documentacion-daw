@@ -1,3 +1,10 @@
+---
+id: requisitos
+title: Especificación de Requisitos
+sidebar_label: Requisitos del Sistema
+sidebar_position: 2
+---
+
 # Especificación de Requisitos del Sistema
 
 Este documento describe los requisitos funcionales y no funcionales para la versión 1.0 de EcoTrack.

@@ -1,3 +1,10 @@
+---
+id: intro
+title: Introducción a EcoTrack
+sidebar_label: Introducción
+sidebar_position: 1
+---
+
 # Introducción a EcoTrack
 
 **EcoTrack** es una plataforma web *open-source* diseñada para ayudar a pequeñas y medianas empresas (PyMEs) a registrar, monitorizar y optimizar su consumo energético, calculando de forma estimada su huella de carbono mensual.

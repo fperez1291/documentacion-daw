@@ -1,3 +1,10 @@
+---
+id: diagrama-clases
+title: Diagrama de Clases
+sidebar_label: Diagrama de Clases
+sidebar_position: 3
+---
+
 # Diseños del Sistema: Diagrama de Clases
 
 A continuación se muestra el modelado de clases del dominio del sistema **EcoTrack**, representado mediante notación Mermaid.

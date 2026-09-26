@@ -1,3 +1,10 @@
+---
+id: estructura-proyecto
+title: Estructura del Proyecto
+sidebar_label: Estructura del Proyecto
+sidebar_position: 4
+---
+
 # Estructura del Proyecto
 
 El repositorio de **EcoTrack** está organizado mediante una arquitectura monorepo simplificada que separa el código fuente, la configuración de despliegue y la documentación oficial.
