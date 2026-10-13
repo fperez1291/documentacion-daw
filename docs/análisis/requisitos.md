@@ -1,4 +1,7 @@
 ---
+id: requisitos
+title: Análisis de Requisitos
+sidebar_label: Requisitos de TaskFlow Pro
 sidebar_position: 3
 ---
 

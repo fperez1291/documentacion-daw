@@ -1,4 +1,7 @@
 ---
+id: despliegue
+title: Despliegue de TaskFlow Pro
+sidebar_label: Despliegue de la aplicación
 sidebar_position: 7
 ---
 

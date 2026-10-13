@@ -1,4 +1,7 @@
 ---
+id: guia-inicio
+title: Guía de Inicio Rápido
+sidebar_label: Guía Inicio Rápido
 sidebar_position: 2
 ---
 

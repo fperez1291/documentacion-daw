@@ -1,4 +1,7 @@
 ---
+id: diagrama-clases
+title: Diseño de TaskFlow Pro
+sidebar_label: Diagrama de Clases
 sidebar_position: 4
 ---
 

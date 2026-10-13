@@ -1,4 +1,7 @@
 ---
+id: intro
+title: Introducción a TaskFlow Pro
+sidebar_label: Introducción
 sidebar_position: 1
 ---
 

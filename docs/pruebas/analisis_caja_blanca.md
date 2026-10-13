@@ -1,4 +1,7 @@
 ---
+id: pruebas
+title: Análisis de Caja Blanca
+sidebar_label: Análisis de Caja Blanca
 sidebar_position: 6
 ---
 

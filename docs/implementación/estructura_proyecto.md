@@ -1,4 +1,7 @@
 ---
+id: estructura-proyecto
+title: Implementación y Estructura de TaskFlow Pro
+sidebar_label: Estructura del Proyecto
 sidebar_position: 5
 ---
 
